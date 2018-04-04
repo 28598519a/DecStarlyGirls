@@ -1,0 +1,2 @@
+JSON_ENCRYPT_KEY = "lkirwf897+22#bbtrm8814z5qq=498j5"
+JSON_ENCRYPT_IV = "741952hheeyy66#cs!9hjv887mxx7@8y"
